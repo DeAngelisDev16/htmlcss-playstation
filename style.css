@@ -24,6 +24,10 @@
 
 }
 
+.discover_ps4{
+    height: 40vh;
+    background-color: aquamarine;
+}
 
 /* utilities */
 .h-100{
