@@ -1,8 +1,14 @@
 /* header-region */
 
 .upper_header{
-    height: 5vh;
-    background-color: grey;
+    background-color: black;
+}
+    
+
+
+#sony-logo{
+    width: 10%;
+    padding: 1rem;
 
 }
 
@@ -14,8 +20,15 @@
 /* end-header-region */
 
 .call_to_action{
-    height: 80vh ;
-    background-color: blueviolet;
+    height: 80vh;
+    background-image: url('./img/jumbo-bg.png');
+    background-size: cover;
+    
+}
+
+#returnal_logo{
+    width: 50%;
+
 }
 
 .here_ps5{
@@ -60,3 +73,4 @@
 }
 
 /* end-utilities */
+
