@@ -19,6 +19,8 @@
 
 /* end-header-region */
 
+/* Jumbo-region */
+
 .call_to_action{
     height: 80vh;
     background-image: url('./img/jumbo-bg.png');
@@ -31,11 +33,23 @@
 
 }
 
-.here_ps5{
-    height: 80vh;
-    background-color: blue;
+/* End jumbo region */
 
+
+
+#no-limits{
+    color: #1D82D3;
 }
+
+#jump-in{
+    color: #727272;
+}
+
+#sperimenta{
+    color:  #787878;
+}
+    
+
 
 .discover_ps4{
     height: 40vh;
@@ -73,4 +87,9 @@
 }
 
 /* end-utilities */
+
+/* colors
+playhasnolimits: #1D82D3;
+jumpin: #727272;
+sperimenta: #787878; */
 
