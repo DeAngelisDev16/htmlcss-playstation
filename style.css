@@ -18,10 +18,21 @@
     background-color: blueviolet;
 }
 
+.here_ps5{
+    height: 80vh;
+    background-color: blue;
+
+}
+
 
 /* utilities */
 .h-100{
     height: 100%;
+}
+
+.debug-col{
+    
+    border: 1px dashed black;
 }
 
 /* end-utilities */
