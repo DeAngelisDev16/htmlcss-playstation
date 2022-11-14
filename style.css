@@ -29,6 +29,17 @@
     background-color: aquamarine;
 }
 
+.online_service{
+    height: 40vh;
+    background-color: grey;
+}
+
+.store_discount{
+    height: 50vh;
+    background-color: aqua;
+    
+}
+
 /* utilities */
 .h-100{
     height: 100%;
