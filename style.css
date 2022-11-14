@@ -37,8 +37,12 @@
 .store_discount{
     height: 50vh;
     background-color: aqua;
-    
 }
+
+.follow_us{
+    height: 40vh;
+}
+    
 
 /* utilities */
 .h-100{
