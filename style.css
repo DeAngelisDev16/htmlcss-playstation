@@ -86,14 +86,12 @@
 .os_logo{
     width: 50%;
 }
+/* online_service-end-region */
 
 
 
 
-.store_discount{
-    height: 50vh;
-    background-color: aqua;
-}
+
 
 .follow_us{
     height: 40vh;
@@ -117,8 +115,5 @@
 
 /* end-utilities */
 
-/* colors
-playhasnolimits: #1D82D3;
-jumpin: #727272;
-sperimenta: #787878; */
+
 
