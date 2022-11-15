@@ -12,10 +12,12 @@
 
 }
 
-.navbar{
-    height: 10vh;
-    background-color: aqua;
+.btn_navbar{
+    background-color: #757575;
+    color: white;
 }
+
+
 
 /* end-header-region */
 
