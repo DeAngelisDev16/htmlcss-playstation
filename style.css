@@ -25,6 +25,7 @@
     height: 80vh;
     background-image: url('./img/jumbo-bg.png');
     background-size: cover;
+    background-position: center;
     
 }
 
