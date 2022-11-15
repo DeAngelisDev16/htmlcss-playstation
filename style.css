@@ -42,7 +42,7 @@
     color: #1D82D3;
 }
 
-#jump-in{
+.jump-in{
     color: #727272;
 }
 
@@ -50,7 +50,8 @@
     color:  #787878;
 }
 /* ecco ps5 end-region */
-    
+ 
+/* ITTAKES2 */
 .call_to_action_2{
     height: 80vh;   /* prova a diminuirla dopo */
     background-image: url('./img/it-takes-two-hero-banner-desktop.jpg');
@@ -70,10 +71,11 @@
 
 }
 
-.discover_ps4{
-    height: 40vh;
-    background-color: aquamarine;
-}
+/* ITTAKES2 END-REGION */
+
+/* esplora ps4-section */
+
+
 
 .online_service{
     height: 40vh;
