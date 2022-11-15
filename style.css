@@ -37,7 +37,7 @@
 /* End jumbo region */
 
 
-
+/* ecco ps5-region */
 #no-limits{
     color: #1D82D3;
 }
@@ -49,8 +49,20 @@
 #sperimenta{
     color:  #787878;
 }
+/* ecco ps5 end-region */
     
+.call_to_action_2{
+    height: 80vh;
+    background-image: url('./img/it-takes-two-hero-banner-desktop.jpg');
+    background-size: cover;
+    background-position: center;
+    color:white
 
+}
+
+#ittakes2-logo{
+    width: 50%;
+}
 
 .discover_ps4{
     height: 40vh;
