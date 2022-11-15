@@ -34,6 +34,11 @@
 
 }
 
+#jumbo-color-button{
+    background-color: #CD3D0F;
+    color: white;
+}
+
 /* End jumbo region */
 
 
@@ -100,7 +105,20 @@
 
 #site_footer{
     
-    background-color: lightskyblue;
+    background-color: #00439C;
+    color: white;
+}
+
+.ps-logo{
+    width: 20%;
+}
+
+#language-globe{
+    width: 5%;
+}
+
+#site_footer a{
+    color: white;
 }
     
 
