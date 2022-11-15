@@ -73,14 +73,22 @@
 
 /* ITTAKES2 END-REGION */
 
-/* esplora ps4-section */
-
-
-
+/* online service-region */
 .online_service{
-    height: 40vh;
-    background-color: grey;
+    
+    background-color: #BEBCBB;
 }
+
+.adv-img{
+    width: 80%;
+}
+
+.os_logo{
+    width: 50%;
+}
+
+
+
 
 .store_discount{
     height: 50vh;
