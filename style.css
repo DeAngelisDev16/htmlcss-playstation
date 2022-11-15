@@ -34,7 +34,7 @@
 
 }
 
-#jumbo-color-button{
+.jumbo-color-button{
     background-color: #CD3D0F;
     color: white;
 }
@@ -91,6 +91,11 @@
 .os_logo{
     width: 50%;
 }
+
+.ps-plus-button{
+    background-color: #D9DADC;
+    color: #376BE5;
+}
 /* online_service-end-region */
 
 .online_service_2{
@@ -102,6 +107,7 @@
 
 
 
+/* FOOTER */
 
 #site_footer{
     
