@@ -52,7 +52,7 @@
 /* ecco ps5 end-region */
     
 .call_to_action_2{
-    height: 80vh;
+    height: 80vh;   /* prova a diminuirla dopo */
     background-image: url('./img/it-takes-two-hero-banner-desktop.jpg');
     background-size: cover;
     background-position: center;
@@ -62,6 +62,12 @@
 
 #ittakes2-logo{
     width: 50%;
+}
+
+.cta_imgs_2{
+    background-color: #1F1F1F;
+    color:white;
+
 }
 
 .discover_ps4{
