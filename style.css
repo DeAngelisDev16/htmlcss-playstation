@@ -49,6 +49,18 @@
 
 /* End jumbo region */
 
+.first_hover{
+    opacity: 0.6;
+    transition: 0.3s;
+}
+
+.first_hover:hover{
+    opacity: 1;
+    cursor: pointer;
+}
+
+
+
 
 /* ecco ps5-region */
 #no-limits{
