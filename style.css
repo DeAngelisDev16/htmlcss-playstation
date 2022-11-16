@@ -49,15 +49,24 @@
 
 /* End jumbo region */
 
+/* :HOVER-EFFECTS */
 .first_hover{
     opacity: 0.6;
     transition: 0.3s;
 }
+   
+    
 
 .first_hover:hover{
     opacity: 1;
     cursor: pointer;
+    border-bottom: 3px solid blue;
+    padding-bottom: 10px;
 }
+   
+    
+
+/* :HOVER-EFFECTS-ENDREGION */
 
 
 
